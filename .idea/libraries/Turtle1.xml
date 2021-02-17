@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Turtle1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/download/Turtle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
